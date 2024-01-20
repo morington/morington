@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+
 <p align="center">
-    <img scr="https://github.com/morington/morington/blob/main/assets/homelogo.png">
+  <img src="https://raw.githubusercontent.com/morington/morington/main/assets/homelogo.png">
 </p>
 
 <p align="center">
