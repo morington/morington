@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/morington/morington/main/assets/homelogo.png">
 </p>
