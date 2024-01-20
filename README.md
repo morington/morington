@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <p align="center">
-    <img scr="assets/homelogo.png">
+    <img scr="https://github.com/morington/morington/blob/main/assets/homelogo.png">
 </p>
 
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morington&theme=2077">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=morington&theme=2077">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=morington&theme=2077">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=morington&theme=2077">
 </p>
 
 <p align="center">
